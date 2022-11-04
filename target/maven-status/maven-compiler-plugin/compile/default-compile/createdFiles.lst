@@ -1,0 +1,4 @@
+com\easyfundraising\pages\SimpleSearchPageObject.class
+com\easyfundraising\drivermanager\ManageDriver.class
+com\easyfundraising\propertyreader\PropertyReader.class
+com\easyfundraising\utility\Utility.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.easyfundraising.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 104.363 s - in com.easyfundraising.runner.TestRunner

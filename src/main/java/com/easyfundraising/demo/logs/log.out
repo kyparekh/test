@@ -1,0 +1,22 @@
+2022-11-03 10:11:319 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-11-03 10:11:801 INFO  SimpleSearchPageObject :33 - click on Find Cause : [[ChromeDriver: chrome on WINDOWS (5d8cbd8932b5da3650af8f90e2b24be9)] -> xpath: //span[text()='Find a cause']]
+2022-11-03 10:11:152 INFO  SimpleSearchPageObject :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5d8cbd8932b5da3650af8f90e2b24be9)] -> xpath: //p[text()='Explore our list of charities and good causes to choose the one you want to support']]
+2022-11-03 10:11:292 INFO  SimpleSearchPageObject :63 - Select Cause : [[[ChromeDriver: chrome on WINDOWS (5d8cbd8932b5da3650af8f90e2b24be9)] -> xpath: //ul[@id='sagc-hero-search-input-auto-suggest']/li[3]]]
+2022-11-03 10:11:701 INFO  SimpleSearchPageObject :84 - Getting Cause from : [[ChromeDriver: chrome on WINDOWS (5d8cbd8932b5da3650af8f90e2b24be9)] -> xpath: //h1[@class='typography-2xl font-v2-heavy my-v2-32']]
+2022-11-03 10:11:218 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-11-03 10:11:672 INFO  SimpleSearchPageObject :33 - click on Find Cause : [[ChromeDriver: chrome on WINDOWS (b74481af8dd47e7e4a7e096ea9d8cb3b)] -> xpath: //span[text()='Find a cause']]
+2022-11-03 10:11:784 INFO  SimpleSearchPageObject :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (b74481af8dd47e7e4a7e096ea9d8cb3b)] -> xpath: //p[text()='Explore our list of charities and good causes to choose the one you want to support']]
+2022-11-03 10:11:971 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-11-03 10:11:773 INFO  SimpleSearchPageObject :25 - Click on Cookies : [[ChromeDriver: chrome on WINDOWS (d86ecd414b80c49fc9a55f3bbca9cbd9)] -> xpath: //button[text()='I accept']]
+2022-11-03 10:11:211 INFO  SimpleSearchPageObject :34 - click on Find Cause : [[ChromeDriver: chrome on WINDOWS (d86ecd414b80c49fc9a55f3bbca9cbd9)] -> xpath: //span[text()='Find a cause']]
+2022-11-03 10:11:317 INFO  SimpleSearchPageObject :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (d86ecd414b80c49fc9a55f3bbca9cbd9)] -> xpath: //p[text()='Explore our list of charities and good causes to choose the one you want to support']]
+2022-11-03 10:11:781 INFO  SimpleSearchPageObject :53 - Enter Cause : [[ChromeDriver: chrome on WINDOWS (d86ecd414b80c49fc9a55f3bbca9cbd9)] -> xpath: //input[@id='sagc-hero-search-input']]
+2022-11-03 10:11:444 INFO  SimpleSearchPageObject :64 - Select Cause : [[[ChromeDriver: chrome on WINDOWS (d86ecd414b80c49fc9a55f3bbca9cbd9)] -> xpath: //ul[@id='sagc-hero-search-input-auto-suggest']/li[3]]]
+2022-11-03 10:11:608 INFO  SimpleSearchPageObject :76 - Click On Search : [[ChromeDriver: chrome on WINDOWS (d86ecd414b80c49fc9a55f3bbca9cbd9)] -> xpath: //span[text()='Search cause']]
+2022-11-03 10:11:680 INFO  SimpleSearchPageObject :86 - Getting Cause from : [[ChromeDriver: chrome on WINDOWS (d86ecd414b80c49fc9a55f3bbca9cbd9)] -> xpath: //h1[@class='typography-2xl font-v2-heavy my-v2-32']]
+2022-11-03 10:11:667 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-11-03 10:11:825 INFO  SimpleSearchPageObject :25 - Click on Cookies : [[ChromeDriver: chrome on WINDOWS (0daa89dfaf64c42e36f3c399c8634af9)] -> xpath: //button[text()='I accept']]
+2022-11-03 10:11:659 INFO  SimpleSearchPageObject :34 - click on Find Cause : [[ChromeDriver: chrome on WINDOWS (0daa89dfaf64c42e36f3c399c8634af9)] -> xpath: //span[text()='Find a cause']]
+2022-11-03 10:11:811 INFO  SimpleSearchPageObject :43 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0daa89dfaf64c42e36f3c399c8634af9)] -> xpath: //p[text()='Explore our list of charities and good causes to choose the one you want to support']]
+2022-11-03 10:11:891 INFO  SimpleSearchPageObject :53 - Enter Cause : [[ChromeDriver: chrome on WINDOWS (0daa89dfaf64c42e36f3c399c8634af9)] -> xpath: //input[@id='sagc-hero-search-input']]
+2022-11-03 10:11:371 INFO  SimpleSearchPageObject :76 - Click On Search : [[ChromeDriver: chrome on WINDOWS (0daa89dfaf64c42e36f3c399c8634af9)] -> xpath: //span[text()='Search cause']]

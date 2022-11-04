@@ -1,0 +1,3 @@
+com\easyfundraising\Hooks.class
+com\easyfundraising\runner\TestRunner.class
+com\easyfundraising\steps\SimpleSearchStepdefs.class
